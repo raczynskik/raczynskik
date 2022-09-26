@@ -1,16 +1,29 @@
-### Hi there 👋
+# 🚴💻 Krzysztof Raczyński
 
-<!--
-**raczynskik/raczynskik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Testing, introducing new testing features to the project, test automation and building motivated team are 
+key aspects I enjoy working with. Implementing test automation into a project and making software development run more smoothly for the entire team is something that drives me.
 
-Here are some ideas to get you started:
+I see the future of testing in automation processes to speed up the release of stable versions. At the same time, I do not forget that we are creating a product for the end user. I look on quality as a process that need to be constantly improve. My strength is 
+the ability to create processes. I like to participate in IT conferences to implement acquired knowledge to 
+projects in which I work. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+---
+☕️ Java
+
+
+### Test frameworks
+---
+* Selenium
+* Selenide
+* Cypress
+
+## Blog
+---
+
+I blog about software quality and software testing. On the blog I write about things like test automation, testing strategies, basics for QA. 
+
+
+My blog: [projectquality.it](https://projectquality.it)
+
+
