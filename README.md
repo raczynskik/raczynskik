@@ -24,6 +24,6 @@ projects in which I work.
 I blog about software quality and software testing. On the blog I write about things like test automation, testing strategies, basics for QA. 
 
 
-My blog: [projectquality.it](https://projectquality.it)
+My blog in Polish 🇵🇱: [projectquality.it](https://projectquality.it)
 
 
