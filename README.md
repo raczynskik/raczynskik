@@ -9,7 +9,8 @@ projects in which I work.
 
 ## Skills
 ---
-☕️ Java
+* Java
+* JavaScript
 
 
 ### Test frameworks
