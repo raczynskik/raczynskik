@@ -26,5 +26,6 @@ I blog about software quality and software testing. On the blog I write about th
 
 
 My blog in Polish 🇵🇱: [projectquality.it](https://projectquality.it)
+
 QA blog in English 🇬🇧 : [krzysztofraczynski.com](https://krzysztofraczynski.com)
 
